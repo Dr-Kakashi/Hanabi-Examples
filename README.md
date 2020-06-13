@@ -1,3 +1,3 @@
-# Hanabi-Examples
-Examples of Hanabi Conventions
-test
+# Hanabi Examples
+Hello! The goal of this is to show all of the Examples of Hanabi Conventions
+
